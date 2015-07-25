@@ -1,0 +1,5 @@
+G:\Downloads\AsciiDemonAttack_src20081108\AsciiWars\AsciiWars\bin\Release\Ascii Demon Attack.exe
+G:\Downloads\AsciiDemonAttack_src20081108\AsciiWars\AsciiWars\bin\Release\Ascii Demon Attack.pdb
+G:\Downloads\AsciiDemonAttack_src20081108\AsciiWars\AsciiWars\obj\Release\ResolveAssemblyReference.cache
+G:\Downloads\AsciiDemonAttack_src20081108\AsciiWars\AsciiWars\obj\Release\Ascii Demon Attack.exe
+G:\Downloads\AsciiDemonAttack_src20081108\AsciiWars\AsciiWars\obj\Release\Ascii Demon Attack.pdb

@@ -1,0 +1,5 @@
+G:\Downloads\AsciiDemonAttack_src20081108\AsciiWars\TextGraphicsConverter\bin\Release\TextGraphicsConverter.exe
+G:\Downloads\AsciiDemonAttack_src20081108\AsciiWars\TextGraphicsConverter\bin\Release\TextGraphicsConverter.pdb
+G:\Downloads\AsciiDemonAttack_src20081108\AsciiWars\TextGraphicsConverter\obj\Release\ResolveAssemblyReference.cache
+G:\Downloads\AsciiDemonAttack_src20081108\AsciiWars\TextGraphicsConverter\obj\Release\TextGraphicsConverter.exe
+G:\Downloads\AsciiDemonAttack_src20081108\AsciiWars\TextGraphicsConverter\obj\Release\TextGraphicsConverter.pdb
